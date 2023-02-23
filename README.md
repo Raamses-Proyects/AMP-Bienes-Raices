@@ -6,4 +6,4 @@
 	administración para que puedas hacer los cambios sin escribir código.
 
 	Proyecto con alto nivel de performanse, personalizacion y seguridad ya que esta preparado
-	contra ataques de inyeccion SQL o otros scripts, validación de datos y de usuarios, etc.
+	contra ataques de inyeccion SQL o otros scripts, validación de datos, sesion de usuarios, etc.
